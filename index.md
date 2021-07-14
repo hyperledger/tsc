@@ -11,10 +11,11 @@ Governing Documents:
 
 * [Antitrust Policy](./antitrust.md)
 * [Code of Conduct](./code-of-conduct.md)
-* [Project Incubation Exit Criteria](./project-incubation-exit.md)
-* [Project Lifecycle](./project-lifecycle.md)
-* [Release Taxonomy](./release-taxonomy.md)
+* [Project Governance](projects)
+  * [Project Incubation Exit Criteria](projects/project-incubation-exit.md)
+  * [Project Lifecycle](projects/project-lifecycle.md)
+  * [Release Taxonomy](projects/release-taxonomy.md)
 
 Guidelines:
 
-* [Maintainers Guidelines](./MAINTAINERS-guidelines.md)
+* [Maintainers Guidelines](guidelines/MAINTAINERS-guidelines.md)
